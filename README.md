@@ -3,7 +3,7 @@ I am a **bilingual Informatics Engineer** graduated in 2013. I started my career
 ### Business intelligence:
 My duties have involved data analysis which has required me to be examining my work environment to provide data-driven solutions and **support decision making**. I have worked with database management systems such as Access, MySQL, MariaDB, MongoDB, SQLite, PostgreSQL, MS SQL Server, and Oracle XE. Also, integration processes with Power BI, Talend, Pentaho and Tableu.
 ### Programming:
-I have worked as a Full Stack developer; PHP, .NET C #, Python, R and JavaScript have been programming languages with which I have developed or intervened **information systems**. Additionally, through these programming languages I have created Scripts to **automate processes** and tasks of ETL.
+I have worked as a Full Stack developer; React, PHP, .NET C #, Python, R and JavaScript have been programming languages with which I have developed or intervened **information systems**. Additionally, through these programming languages I have created Scripts to **automate processes** and tasks of ETL.
 ### Projects management:
 I have been working with projects since my first job; I have implemented CRM solutions, I have updated the technological infrastructure of my current company, I have designed strategies to **implement and update information systems** and in the last years I have used Scrum framework to manage development projects.
 ### Teamwork:
