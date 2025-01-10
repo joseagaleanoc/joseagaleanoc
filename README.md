@@ -1,2 +1,2 @@
-# Hi! I am Jose A. Galeano C.
-My passion for **technology** has led me to grow on a personal and professional level for the last ten years. I am **self-driven** with an advocate for **teamwork** which have encourage me to focus my career on information systems having experience as a **developer** building web application, **data analysts** to support the decision-making of upper management and as **project manager** leading teams of development to deliver solutions on time with quality assurance.
+# Hello
+Personal repos to test and explore things...
